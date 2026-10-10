@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "RSMSSB CET (Graduation Level) Official Question Paper",
+    "category": "RAJASTHAN",
+    "exam": "CET",
+    "year": 2024,
+    "type": "Question Paper",
+    "date": "2024-09-28",
+    "pdfUrl": "https://rsmssb.rajasthan.gov.in"
+  },
+  {
+    "id": 2,
+    "title": "RPSC RAS Pre Exam Official Question Paper",
+    "category": "RAJASTHAN",
+    "exam": "RAS",
+    "year": 2023,
+    "type": "Question Paper",
+    "date": "2023-10-01",
+    "pdfUrl": "https://rpsc.rajasthan.gov.in"
+  },
+  {
+    "id": 3,
+    "title": "SSC CGL Tier-1 Official Question Paper",
+    "category": "CENTRAL",
+    "exam": "SSC CGL",
+    "year": 2024,
+    "type": "Question Paper",
+    "date": "2024-09-15",
+    "pdfUrl": "https://ssc.gov.in"
+  },
+  {
+    "id": 4,
+    "title": "UPSC Civil Services (Prelims) GS Paper-1",
+    "category": "CENTRAL",
+    "exam": "UPSC CSE",
+    "year": 2024,
+    "type": "Question Paper",
+    "date": "2024-06-16",
+    "pdfUrl": "https://upsc.gov.in"
+  },
+  {
+    "id": 5,
+    "title": "IBPS PO Prelims Memory-Based Official Model Paper",
+    "category": "BANK_INSURANCE",
+    "exam": "IBPS PO",
+    "year": 2024,
+    "type": "Question Paper",
+    "date": "2024-10-05",
+    "pdfUrl": "https://www.ibps.in"
+  },
+  {
+    "id": 6,
+    "title": "SBI Clerk Mains Previous Year Paper",
+    "category": "BANK_INSURANCE",
+    "exam": "SBI Clerk",
+    "year": 2023,
+    "type": "Question Paper",
+    "date": "2024-02-15",
+    "pdfUrl": "https://sbi.co.in"
+  },
+  {
+    "id": 7,
+    "title": "LIC AAO Prelims Official Model Paper",
+    "category": "BANK_INSURANCE",
+    "exam": "LIC AAO",
+    "year": 2023,
+    "type": "Question Paper",
+    "date": "2023-02-20",
+    "pdfUrl": "https://licindia.in"
+  }
+]
