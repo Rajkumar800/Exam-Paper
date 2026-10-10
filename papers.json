@@ -1,72 +1,72 @@
 [
   {
     "id": 1,
-    "title": "RSMSSB CET (Graduation Level) Official Question Paper",
+    "title": "RSMSSB LDC / Clerk Grade-II Official Master Question Paper (Paper-1)",
     "category": "RAJASTHAN",
-    "exam": "CET",
+    "exam": "LDC",
     "year": 2024,
     "type": "Question Paper",
-    "date": "2024-09-28",
-    "pdfUrl": "https://rsmssb.rajasthan.gov.in"
+    "date": "2024-08-11",
+    "pdfUrl": "https://rsmssb.rajasthan.gov.in/Static/files/L91_LDC2024_MQP-Ist.pdf"
   },
   {
     "id": 2,
-    "title": "RPSC RAS Pre Exam Official Question Paper",
-    "category": "RAJASTHAN",
-    "exam": "RAS",
-    "year": 2023,
-    "type": "Question Paper",
-    "date": "2023-10-01",
-    "pdfUrl": "https://rpsc.rajasthan.gov.in"
-  },
-  {
-    "id": 3,
-    "title": "SSC CGL Tier-1 Official Question Paper",
-    "category": "CENTRAL",
-    "exam": "SSC CGL",
-    "year": 2024,
-    "type": "Question Paper",
-    "date": "2024-09-15",
-    "pdfUrl": "https://ssc.gov.in"
-  },
-  {
-    "id": 4,
-    "title": "UPSC Civil Services (Prelims) GS Paper-1",
+    "title": "UPSC Civil Services Prelims 2024 - General Studies (Paper-1)",
     "category": "CENTRAL",
     "exam": "UPSC CSE",
     "year": 2024,
     "type": "Question Paper",
     "date": "2024-06-16",
-    "pdfUrl": "https://upsc.gov.in"
+    "pdfUrl": "https://www.upsc.gov.in/sites/default/files/QP-CSM-22-GENERAL-STUDIES-PAPER%20I-190922.pdf"
+  },
+  {
+    "id": 3,
+    "title": "UPSC Civil Services - General Studies (Paper-2 / CSAT)",
+    "category": "CENTRAL",
+    "exam": "UPSC CSE",
+    "year": 2024,
+    "type": "Question Paper",
+    "date": "2024-06-16",
+    "pdfUrl": "https://www.upsc.gov.in/sites/default/files/GENERAL-STUDIES-PAPER-II-QP-CSM-25-010925.pdf"
+  },
+  {
+    "id": 4,
+    "title": "RSMSSB Computor Recruitment Exam 2023 - Official Question Paper & Key",
+    "category": "RAJASTHAN",
+    "exam": "Computor",
+    "year": 2024,
+    "type": "Question Paper",
+    "date": "2024-03-03",
+    "pdfUrl": "https://rsmssb.rajasthan.gov.in/Static/files/Computer23_Result_05072024.pdf"
   },
   {
     "id": 5,
-    "title": "IBPS PO Prelims Memory-Based Official Model Paper",
-    "category": "BANK_INSURANCE",
-    "exam": "IBPS PO",
+    "title": "SSC Junior Engineer (JE) Official Question Paper & Final Answer Key",
+    "category": "CENTRAL",
+    "exam": "SSC JE",
     "year": 2024,
     "type": "Question Paper",
-    "date": "2024-10-05",
-    "pdfUrl": "https://www.ibps.in"
+    "date": "2024-08-21",
+    "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Final_Answer_Key_21082026.pdf"
   },
   {
     "id": 6,
-    "title": "SBI Clerk Mains Previous Year Paper",
+    "title": "IBPS PO / Specialist Officer Official Model Handout & Paper",
     "category": "BANK_INSURANCE",
-    "exam": "SBI Clerk",
-    "year": 2023,
-    "type": "Question Paper",
-    "date": "2024-02-15",
-    "pdfUrl": "https://sbi.co.in"
+    "exam": "IBPS PO",
+    "year": 2024,
+    "type": "Model Paper",
+    "date": "2024-10-01",
+    "pdfUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_21092026.pdf"
   },
   {
     "id": 7,
-    "title": "LIC AAO Prelims Official Model Paper",
-    "category": "BANK_INSURANCE",
-    "exam": "LIC AAO",
-    "year": 2023,
-    "type": "Question Paper",
-    "date": "2023-02-20",
-    "pdfUrl": "https://licindia.in"
+    "title": "RSMSSB CET (Graduation Level) Official Recruitment & Paper Guide",
+    "category": "RAJASTHAN",
+    "exam": "CET",
+    "year": 2024,
+    "type": "Paper Guide",
+    "date": "2024-08-06",
+    "pdfUrl": "https://rsmssb.rajasthan.gov.in/Static/files/Adv_CET_Graduation_2024_06082024.pdf"
   }
 ]
